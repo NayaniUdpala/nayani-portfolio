@@ -29,7 +29,7 @@ const projects = [
     image: unibankImg,
     gradient: 'from-purple-600 via-blue-500 to-indigo-700',
     glow: 'bg-blue-400/30',
-    link: 'https://www.figma.com/design/ARfOoWNckp1737ECNp5Mx4/UniBank'
+    link: 'https://www.behance.net/gallery/246458291/-UniBank-Student-Banking-App'
   },
   {
     id: 3,

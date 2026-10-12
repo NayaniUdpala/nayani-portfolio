@@ -71,7 +71,7 @@ export function Hero() {
             </span>
 
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-accent-light to-accent-cyan">
-              Designing intuitive digital products that enhance user experience
+              I design thoughtful digital experiences from idea to interface
             </span>
           </motion.h1>
 
