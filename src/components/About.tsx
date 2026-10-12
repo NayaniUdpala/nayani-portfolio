@@ -1,8 +1,8 @@
+
 import React from "react";
 import { motion } from "framer-motion";
 import { PenTool, Palette, ArrowRight, Download } from "lucide-react";
 import profilePic from "../assets/profile.png";
-import cvFile from "../assets/Nayani-CV.pdf";
 
 export function About() {
   return (
@@ -58,7 +58,7 @@ export function About() {
             {/* ===== DOWNLOAD CV BUTTON ===== */}
             <div className="flex flex-wrap gap-4 justify-center md:justify-start">
               <a
-                href={cvFile}
+                href="/Nayani-CV.pdf"
                 download="Nayani Wickramaarachchi-UIUX Designer.pdf"
                 className="px-6 py-3 rounded-full font-semibold flex items-center gap-2 text-white
                 bg-gradient-to-r from-blue-500 to-purple-500
